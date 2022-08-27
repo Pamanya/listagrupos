@@ -2,6 +2,9 @@
 #EXTINF:0 tvg-logo="https://images2.imgbox.com/d5/5d/7XaSxizL_o.png" group-title="NIÑOS",CARTOON NETWORK
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://38.18.237.42:8575/307CartoonNetwork/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+#EXTINF:0 tvg-logo="https://seeklogo.com/images/D/Dragon_Ball_Z-logo-0C7B78BE7E-seeklogo.com.png" group-title="NIÑOS",Dragon Ball Z
+#EXTVLCOPT:http-user-agent=ReDn6ngGACeewtdfg463ewqe5546rtVVhgh7j459y33ewr9dsus6555ir48efs576z6t5sq5eu598081131f535ds8014432rxesde8sd4uz321c65zx4d894fds541c23xz1cs56d
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/FZ8HP5nxsP/qzbDkIia4U/1002.ts
 #EXTINF:0 tvg-logo="" group-title="NIÑOS",DIDCOVERY KIDS
 #EXTVLCOPT:http-user-agent=ReDn6ngGACeewtdfg463ewqe5546rtVVhgh7j459y33ewr9dsus6555ir48efs576z6t5sq5eu598081131f535ds8014432rxesde8sd4uz321c65zx4d894fds541c23xz1cs56d
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/FZ8HP5nxsP/qzbDkIia4U/531.ts
