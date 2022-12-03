@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:o tvg-id="" tvg-name="101 Dalmatas: Ahora la magia es real (1996) (LAT)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jF7B7uj72mID0mxmTQK7gj6SozD.jpg" group-title="LAT-VOD-Infantil / Familiar",101 Dalmatas: Ahora la magia es real (1996) (LAT)
 http://megatitan.net:8080//movie/monic74/Avila45/110831.mkv
+#EXTINF:o tvg-id="" tvg-name="DRAGON BALL: Super Hero (2022) (LAT)" tvg-logo="https://ia801500.us.archive.org/25/items/dragon-ball-super-super-hero-181561937-large/Dragon_Ball_Super_Super_Hero-181561937-large.jpg" group-title="LAT-VOD-Infantil / Familiar",DRAGON BALL: Super Hero (2022) (LAT)
+https://ia801505.us.archive.org/34/items/lcd-crystal-7649-dbs-super-hero-lat-2022/%40LCD_crystal_7649%20DBS%20Super%20Hero%20%F0%9F%87%B2%F0%9F%87%BD%20Lat%20%282022%29.mp4
 #EXTINF:o tvg-id="" tvg-name="La noche de las narices frías (1961) (LAT)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wny5QtN4D9KYRaW3jDCNMSCQ8gc.jpg" group-title="LAT-VOD-Infantil / Familiar",La noche de las narices frías (1961) (LAT)
 http://megatitan.net:8080//movie/monic74/Avila45/110830.mkv
 #EXTINF:o tvg-id="" tvg-name="101 dálmatas II: Una aventura en Londres (2002) (LAT)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7MjocXoaNAqd8WHWfoiRaVvaYid.jpg" group-title="LAT-VOD-Infantil / Familiar",101 dálmatas II: Una aventura en Londres (2002) (LAT)
