@@ -467,3 +467,71 @@ http://tv.nousiptv.com:8080/enriquecastro/096391655/8126
 http://tv.nousiptv.com:8080/enriquecastro/096391655/8138
 #EXTINF:-1 tvg-id="" tvg-name="CINP - SHOWTIME BEYOND HD" tvg-logo="http://descargas.podzone.net/logos/-showtime-beyond.png" group-title="•CINEMA PREMIUM•",CINP - SHOWTIME BEYOND HD
 http://tv.nousiptv.com:8080/enriquecastro/096391655/8139
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="CINP - SHOWTIME EAST" tvg-logo="http://descargas.podzone.net/logos/-showtime.png" group-title="•CINEMA PREMIUM•",CINP - SHOWTIME EAST
+http://tv.nousiptv.com:8080/enriquecastro/096391655/8140
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="CINP - SHOTIME WEST HD" tvg-logo="http://descargas.podzone.net/logos/-showtime.png" group-title="•CINEMA PREMIUM•",CINP - SHOTIME WEST HD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/8141
+#EXTINF:-1 tvg-id="MovieMax.us" tvg-name="CINP - MORE MAX HD" tvg-logo="http://descargas.podzone.net/logos/-more-max.png" group-title="•CINEMA PREMIUM•",CINP - MORE MAX HD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/8143
+#EXTINF:-1 tvg-id="MovieMax.us" tvg-name="CINP - MOVIE MAX" tvg-logo="http://descargas.podzone.net/logos/movie-max.png" group-title="•CINEMA PREMIUM•",CINP - MOVIE MAX
+http://tv.nousiptv.com:8080/enriquecastro/096391655/8144
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="CINP - MOVIEPLEX" tvg-logo="http://descargas.podzone.net/logos/-movieplex.png" group-title="•CINEMA PREMIUM•",CINP - MOVIEPLEX
+http://tv.nousiptv.com:8080/enriquecastro/096391655/8145
+#EXTINF:-1 tvg-id="OuterMax.us" tvg-name="CINP - OUTERMAX HD" tvg-logo="http://descargas.podzone.net/logos/-outermax.png" group-title="•CINEMA PREMIUM•",CINP - OUTERMAX HD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/8146
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="CINP - INDIE PLEX" tvg-logo="http://descargas.podzone.net/logos/-indie-plex.png" group-title="•CINEMA PREMIUM•",CINP - INDIE PLEX
+http://tv.nousiptv.com:8080/enriquecastro/096391655/8142
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="CINP - RETROPLEX HD" tvg-logo="http://descargas.podzone.net/logos/-retroplex.png" group-title="•CINEMA PREMIUM•",CINP - RETROPLEX HD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/8147
+#EXTINF:-1 tvg-id="MonteCarloTV.uy" tvg-name="URU - CANAL 4 HD" tvg-logo="http://descargas.podzone.net/logos/-Canal-4.png" group-title="URUGUAY",URU - CANAL 4 HD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/8334
+#EXTINF:-1 tvg-id="Canal4.cr" tvg-name="URU - CANAL 4 SD" tvg-logo="http://descargas.podzone.net/logos/-Canal-4.png" group-title="URUGUAY",URU - CANAL 4 SD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/18261
+#EXTINF:-1 tvg-id="Canal10.uy" tvg-name="URU - CANAL 10 HD" tvg-logo="http://descargas.podzone.net/logos/-canal-10.png" group-title="URUGUAY",URU - CANAL 10 HD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/18567
+#EXTINF:-1 tvg-id="" tvg-name="URU - CANAL 10 SD" tvg-logo="http://descargas.podzone.net/logos/-canal-10.png" group-title="URUGUAY",URU - CANAL 10 SD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1155782
+#EXTINF:-1 tvg-id="" tvg-name="URU - TELE12 FHD" tvg-logo="http://descargas.podzone.net/logos/-tele12.png" group-title="URUGUAY",URU - TELE12 FHD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1156212
+#EXTINF:-1 tvg-id="Canal12.uy" tvg-name="URU - TELE12 HD" tvg-logo="http://descargas.podzone.net/logos/-tele12.png" group-title="URUGUAY",URU - TELE12 HD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/18731
+#EXTINF:-1 tvg-id="Canal12.uy" tvg-name="URU - TELE12 SD" tvg-logo="http://descargas.podzone.net/logos/-tele12.png" group-title="URUGUAY",URU - TELE12 SD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/18578
+#EXTINF:-1 tvg-id="TeveCiudad.uy" tvg-name="URU - TV CIUDAD HD" tvg-logo="http://descargas.podzone.net/logos/-tv-ciudad.png" group-title="URUGUAY",URU - TV CIUDAD HD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/19352
+#EXTINF:-1 tvg-id="TeveCiudad.uy" tvg-name="URU - TV CIUDAD SD" tvg-logo="http://descargas.podzone.net/logos/-tv-ciudad.png" group-title="URUGUAY",URU - TV CIUDAD SD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/16136
+#EXTINF:-1 tvg-id="" tvg-name="URU  - A+V " tvg-logo="http://descargas.podzone.net/logos/-AmasV.png" group-title="URUGUAY",URU  - A+V 
+http://tv.nousiptv.com:8080/enriquecastro/096391655/51359
+#EXTINF:-1 tvg-id="TelevisionNacionalUruguay.uy" tvg-name="URU - CANAL 5 URUGUAY " tvg-logo="http://descargas.podzone.net/logos/-canal-5-uruguay.png" group-title="URUGUAY",URU - CANAL 5 URUGUAY 
+http://tv.nousiptv.com:8080/enriquecastro/096391655/19351
+#EXTINF:-1 tvg-id="" tvg-name="URU - ESPN URUGUAY" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="URUGUAY",URU - ESPN URUGUAY
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1156002
+#EXTINF:-1 tvg-id="" tvg-name="URU - DIRECTV URUGUAY " tvg-logo="http://descargas.podzone.net/logos/-Directv-sports.png" group-title="URUGUAY",URU - DIRECTV URUGUAY 
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1156003
+#EXTINF:-1 tvg-id="" tvg-name="URU - GOL TV" tvg-logo="http://descargas.podzone.net/logos/-gol-tv.png" group-title="URUGUAY",URU - GOL TV
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1137832
+#EXTINF:-1 tvg-id="VTV.uy" tvg-name="URU - VTV FHD" tvg-logo="http://descargas.podzone.net/logos/-VTV.png" group-title="URUGUAY",URU - VTV FHD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/3802
+#EXTINF:-1 tvg-id="VTV.uy" tvg-name="URU - VTV HD" tvg-logo="http://descargas.podzone.net/logos/-VTV.png" group-title="URUGUAY",URU - VTV HD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/22204
+#EXTINF:-1 tvg-id="VTV.uy" tvg-name="URU - VTV Plus HD" tvg-logo="http://descargas.podzone.net/logos/-VTV-plus.png" group-title="URUGUAY",URU - VTV Plus HD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/19354
+#EXTINF:-1 tvg-id="VTV.uy" tvg-name="URU - VTV Plus SD" tvg-logo="http://descargas.podzone.net/logos/-VTV-plus.png" group-title="URUGUAY",URU - VTV Plus SD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/52513
+#EXTINF:-1 tvg-id="" tvg-name="URU - CANAL 11 PUNTA DEL ESTE HD" tvg-logo="http://descargas.podzone.net/logos/-canal-11-punta-del-este.png" group-title="URUGUAY",URU - CANAL 11 PUNTA DEL ESTE HD
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1139100
+#EXTINF:-1 tvg-id="" tvg-name="URU - LA RED" tvg-logo="http://descargas.podzone.net/logos/-la-red.png" group-title="URUGUAY",URU - LA RED
+http://tv.nousiptv.com:8080/enriquecastro/096391655/35428
+#EXTINF:-1 tvg-id="" tvg-name="URU - MAROÑAS ENTERTAIMENT " tvg-logo="http://descargas.podzone.net/logos/-maronas-entertaiment.png" group-title="URUGUAY",URU - MAROÑAS ENTERTAIMENT 
+http://tv.nousiptv.com:8080/enriquecastro/096391655/31618
+#EXTINF:-1 tvg-id="" tvg-name="URU - 1000 x HORA " tvg-logo="http://descargas.podzone.net/logos/-1000-x-hora.png" group-title="URUGUAY",URU - 1000 x HORA 
+http://tv.nousiptv.com:8080/enriquecastro/096391655/34605
+#EXTINF:-1 tvg-id="" tvg-name="URU - PPV URUGUAY 1" tvg-logo="http://descargas.podzone.net/logos/-PPV.png" group-title="URUGUAY",URU - PPV URUGUAY 1
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1155780
+#EXTINF:-1 tvg-id="" tvg-name="URU - PPV URUGUAY 2" tvg-logo="http://descargas.podzone.net/logos/-PPV.png" group-title="URUGUAY",URU - PPV URUGUAY 2
+http://tv.nousiptv.com:8080/enriquecastro/096391655/7943
+#EXTINF:-1 tvg-id="" tvg-name="URU - PPV URUGUAY 3" tvg-logo="http://descargas.podzone.net/logos/-PPV.png" group-title="URUGUAY",URU - PPV URUGUAY 3
+http://tv.nousiptv.com:8080/enriquecastro/096391655/43600
+#EXTINF:-1 tvg-id="" tvg-name="URU - PRUEBA " tvg-logo="http://descargas.podzone.net/logos/-PPV.png" group-title="URUGUAY",URU - PRUEBA 
+http://tv.nousiptv.com:8080/enriquecastro/096391655/1156974
