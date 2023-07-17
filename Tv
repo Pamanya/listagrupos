@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="LD - ESPN CHILE SD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="• LATINO DEPORTES •",LD - ESPN CHILE SD
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="LD - ESPN CHILE SD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title=" cine",LD - ESPN CHILE SD
 http://tv.nousiptv.com:8080/live/enriquecastro/096391655/1080111.m3u8
-#EXTINF:-1 tvg-id="ESPN.br" tvg-name="LD - ESPN 4 BRASIL" tvg-logo="http://descargas.podzone.net/logos/-ESPN-4.png" group-title="• LATINO DEPORTES •",LD - ESPN 4 BRASIL
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="LD - ESPN 4 BRASIL" tvg-logo="http://descargas.podzone.net/logos/-ESPN-4.png" group-title="Cultura",LD - ESPN 4 BRASIL
 http://tv.nousiptv.com:8080/live/enriquecastro/096391655/1147322.m3u8
 #EXTINF:-1 tvg-id="ESPNLatin.mx" tvg-name="LD - ESPN MX" tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="• LATINO DEPORTES •",LD - ESPN MX
 http://tv.nousiptv.com:8080/live/enriquecastro/096391655/1155892.m3u8
-#EXTINF:-1 tvg-id="Espn2.mx" tvg-name="LD - ESPN 2 MX HD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="• LATINO DEPORTES •",LD - ESPN 2 MX HD
+#EXTINF:-1 tvg-id="Espn2.mx" tvg-name="LD - ESPN 2 MX HD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="• infantiles",LD - ESPN 2 MX HD
 http://tv.nousiptv.com:8080/live/enriquecastro/096391655/1118923.m3u8
 #EXTINF:-1 tvg-id="ESPN3.mx" tvg-name="LD - ESPN 3 MX HD" tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="• LATINO DEPORTES •",LD - ESPN 3 MX HD
 http://tv.nousiptv.com:8080/live/enriquecastro/096391655/1155903.m3u8
